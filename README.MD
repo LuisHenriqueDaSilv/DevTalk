@@ -20,6 +20,7 @@
 ### **Mobile**
 - [NodeJs](https://nodejs.org/en/)
 - [NPM](https://www.npmjs.com)
+- [Expo](https://expo.dev)
 
 <br />
 
@@ -47,11 +48,20 @@ cd mobile && npm i && npm start
 
 <br />
 
-<div align="center">
 
 ## **Used technologies:**
+
+- [React Native](https://reactnative.dev) and [Expo](https://expo.dev) to create mobile app
+- [Flask](https://flask.palletsprojects.com/en/2.0.x/) to create API
+- [Flask-SocketIO](flask-socketio.readthedocs.io/) to create WebSocket
+- [PostgreSQL](https://www.postgresql.org) in database
+- [Flask-SQLalchemy](https://flask-sqlalchemy.palletsprojects.com/en/2.x/) and [Flask-Migrate](https://flask-migrate.readthedocs.io/en/latest/) to manage database
+
+<br />
   
 ## **How use mobile app:**
+
+<div align="center">
 
 <br />
   
