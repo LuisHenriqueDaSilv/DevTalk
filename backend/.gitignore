@@ -1,0 +1,6 @@
+env/
+__pycache__/
+*.sqlite
+migrations/
+.env
+/backend/app/database/uploads/*

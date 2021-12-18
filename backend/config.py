@@ -1,0 +1,3 @@
+SQLALCHEMY_DATABASE_URI = 'postgresql://postgres:postgres@192.168.0.9:5432'
+SQLALCHEMY_TRACK_MODIFICATIONS = True
+CORS_HEADERS = 'Content-Type'

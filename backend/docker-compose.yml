@@ -1,0 +1,28 @@
+version: "3.5"
+services: 
+
+  backend:
+    build: .
+    ports:
+      - "5000:5000"
+    volumes: 
+      - .:/project
+    depends_on:
+      - postgres_db
+    networks:
+      - database
+
+  postgres_db:
+    image: postgres
+    environment:
+      POSTGRES_USERNAME: "postgres"
+      POSTGRES_PASSWORD: "postgres"
+      POSTGRES_DB: devtalk
+    ports:
+      - 5432:5432
+    networks:
+      - database
+
+networks: 
+  database:
+    driver: bridge

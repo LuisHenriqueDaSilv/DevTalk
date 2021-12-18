@@ -1,0 +1,107 @@
+[
+    {
+        "id": 0,
+        "name": "Global",
+        "aliase": "global"
+    },
+    {
+        "id": 1,
+        "name": "Windows",
+        "aliase": "windows8"
+    },
+    {
+        "id": 2,
+        "name": "Linux",
+        "aliase": "linux"
+    },
+    {
+        "id": 3,
+        "name": "MacOs",
+        "aliase": "apple"
+    },
+    {
+        "id": 4,
+        "name": "JavaScript",
+        "aliase": "javascript"
+    },
+    {
+        "id": 5,
+        "name": "Python",
+        "aliase": "python"
+    },
+    {
+        "id": 6,
+        "name": "Java",
+        "aliase": "java"
+    },
+    {
+        "id": 7,
+        "name": "C++",
+        "aliase": "cplusplus"
+    },
+    {
+        "id": 8,
+        "name": "PHP",
+        "aliase": "php"
+    },
+    {
+        "id": 9,
+        "name": "TypeScript",
+        "aliase": "typescript"
+    },
+    {
+        "id": 10,
+        "name": "Go",
+        "aliase": "go"
+    },
+    {
+        "id": 11,
+        "name": "Ruby",
+        "aliase": "ruby"
+    },
+    {
+        "id": 12,
+        "name": "C",
+        "aliase": "c"
+    },
+    {
+        "id": 13,
+        "name": "HTML",
+        "aliase": "html5"
+    },
+    {
+        "id": 14,
+        "name": "C#",
+        "aliase": "csharp"
+    },
+    {
+        "id": 15,
+        "name": "CSS",
+        "aliase": "css3"
+    },
+    {
+        "id": 16,
+        "name": "Scala",
+        "aliase": "scala"
+    },
+    {
+        "id": 17,
+        "name": "Swift",
+        "aliase": "swift"
+    },
+    {
+        "id": 18,
+        "name": "Perl",
+        "aliase": "perl"
+    },
+    {
+        "id": 19,
+        "name": "Docker",
+        "aliase": "docker"
+    },
+    {
+        "id": 20,
+        "name": "Kotlin",
+        "aliase": "kotlin"
+    }
+]
